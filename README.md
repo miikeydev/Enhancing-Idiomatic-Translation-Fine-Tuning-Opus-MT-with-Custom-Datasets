@@ -1,0 +1,2 @@
+# Enhancing-Idiomatic-Translation-Fine-Tuning-Opus-MT-with-Custom-Datasets
+This repository presents a detailed guide on fine-tuning the Opus-MT model for idiomatic translations. It includes the creation and augmentation of a custom dataset using OpenAI's API, optimizing the model to handle idiomatic expressions (FR-ENG)  effectively. The project covers data preprocessing, model training, and evaluation.
